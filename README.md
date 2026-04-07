@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is **Gabriel** a Computer Science student from São Paulo, Brazil.</p>
+<p align="left">My name is Gabriel a Computer Science student from São Paulo, Brazil.</p>
 
 ###
 
