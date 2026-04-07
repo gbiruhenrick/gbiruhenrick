@@ -9,8 +9,17 @@
 <h2 align="left">About me</h2>
 
 ###
+🚀 Career Path: Transitioning from Logistics & HVAC to Backend & Infrastructure.
 
-<p align="left">Career Path: Transitioning from Logistics & HVAC to Backend & Infrastructure.<br><br>🐍 Backend: Building robust logic with Python and SQL.<br><br>🐳 DevOps: Learning Docker, Linux, and Automation.<br><br>🎓 Education: 2nd year Computer Science student.</p>
+💻 Backend Development: Crafting logic and APIs with Python, Java, and SQL.
+
+🐳 DevOps & Cloud: Learning Docker, Linux automation, and AWS infrastructure.
+
+🌐 Web Foundation: Handling HTML5 and environment configurations.
+
+🎓 Education: 2nd year Computer Science student.
+
+🛠️ Skills: Hardcore troubleshooting and infrastructure maintenance.
 
 ###
 
